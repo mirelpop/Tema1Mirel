@@ -1,20 +1,6 @@
 public class Tema1 {
     public static void main(String[] args) {
-        System.out.println("sadlkjsamjdnaslk ");
+        System.out.println("Troll level 9000 ");
     }
-    public static void main(String[] args) {
-        System.out.println("sadlkjsamjdnaslk ");
-    }
-}
-public class Tema1 {
-    public static void main(String[] args) {
-    public static void main(String[] args) {
-        System.out.println("sadlkjsamjdnaslk ");
-    }
-}
-public class Tema1 {
-    public static void main(String[] args) {
-        System.out.println("sadlkjsamjdnaslk ");
-    }
-    }
+
 }
